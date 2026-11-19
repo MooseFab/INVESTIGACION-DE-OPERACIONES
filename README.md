@@ -2,7 +2,7 @@
 
 Actividad integradora: implementación de modelos de Investigación de Operaciones con Python y Jupyter Notebook.
 
-**Institución:** Centro Universitario UAEM Zumpango · **Programa:** Ingeniería en Computación · **Periodo:** 2026-B
+**Institución:** Centro Universitario UAEM Zumpango · **Carrera:** Ingeniería en Computación · **Periodo:** 2026-B
 
 **Equipo:** Fernando Dante Rodriguez Silva, Jonathan Alberto López Fabián, Brayan Michel Aguilar Torres
 
