@@ -1,0 +1,17 @@
+nodo_a,nodo_b,latencia_ms
+S,R1,4
+S,R2,7
+R1,R2,2
+R1,R3,10
+R2,R4,6
+R2,R5,11
+R3,R4,3
+R3,R6,8
+R3,R7,5
+R4,R5,4
+R4,R6,9
+R5,R6,2
+R5,D,5
+R6,R7,3
+R6,D,6
+R7,D,3

@@ -1,0 +1,14 @@
+Actividad,Descripción,Duración (días),Predecesoras
+A,Levantamiento de requerimientos,3,-
+B,Arquitectura y modelo de datos,4,A
+C,Diseño de interfaz UI/UX,5,A
+D,Configuración de infraestructura en la nube,3,B
+E,Desarrollo del backend (API REST),8,B
+F,Desarrollo del frontend,6,C
+G,Configuración del pipeline CI/CD,2,D
+H,Integración frontend-backend,3,"E, F"
+I,Pruebas unitarias del backend,4,E
+J,Pruebas de integración y seguridad,5,"H, I"
+K,Despliegue en producción,2,"G, J"
+L,Documentación y capacitación,4,H
+M,Cierre y entrega al cliente,1,"K, L"
